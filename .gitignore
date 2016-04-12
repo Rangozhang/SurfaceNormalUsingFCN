@@ -1,4 +1,17 @@
 Sec_1/checkpoint
 Sec_1/checkpoint/*
+Sec_1/cache
+Sec_1/cache/*
+Sec_1/test_img
+Sec_1/test_img/*
+Sec_1/test_res
+Sec_1/test_res/*
 Sec_2/checkpoint
 Sec_2/checkpoint/*
+Sec_2/cache
+Sec_2/cache/*
+Sec_2/test_img
+Sec_2/test_img/*
+Sec_2/test_res
+Sec_2/test_res/*
+
